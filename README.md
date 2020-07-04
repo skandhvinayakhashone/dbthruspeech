@@ -1,6 +1,6 @@
 # dbthruspeech
 
-Pull records from MongDB using Fuzzy Logic, Neural Network and Google gTTS API
+Pull records from MongDB using Fuzzy Logic, KNN and Google gTTS API
 
 Dependencies:
 
